@@ -1,0 +1,11 @@
+1. Numpy
+import numpy as np 
+
+2. pandas
+import pandas as pd 
+
+3. statistics for the Median
+import statistics 
+
+4. sklearn to perform one hot encoder
+from sklearn.preprocessing import LabelBinarizer # One Hot Encoder
